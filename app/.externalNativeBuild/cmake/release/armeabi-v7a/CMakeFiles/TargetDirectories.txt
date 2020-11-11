@@ -1,0 +1,4 @@
+/home/zhengyuanlong/jieliang/projects/my/github/temp/VideoPlay/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/zhengyuanlong/jieliang/projects/my/github/temp/VideoPlay/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/zhengyuanlong/jieliang/projects/my/github/temp/VideoPlay/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/soundtouch.dir
+/home/zhengyuanlong/jieliang/projects/my/github/temp/VideoPlay/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir
